@@ -1,0 +1,14 @@
+D:\ЕКТС\2026-2027\__УМК\МДК.02.01\4 курс\Лекции\04_patterns\ExamplePatterns\ExamplePatterns\SimpleFactory\bin\Debug\net10.0\SimpleFactory.exe
+D:\ЕКТС\2026-2027\__УМК\МДК.02.01\4 курс\Лекции\04_patterns\ExamplePatterns\ExamplePatterns\SimpleFactory\bin\Debug\net10.0\SimpleFactory.deps.json
+D:\ЕКТС\2026-2027\__УМК\МДК.02.01\4 курс\Лекции\04_patterns\ExamplePatterns\ExamplePatterns\SimpleFactory\bin\Debug\net10.0\SimpleFactory.runtimeconfig.json
+D:\ЕКТС\2026-2027\__УМК\МДК.02.01\4 курс\Лекции\04_patterns\ExamplePatterns\ExamplePatterns\SimpleFactory\bin\Debug\net10.0\SimpleFactory.dll
+D:\ЕКТС\2026-2027\__УМК\МДК.02.01\4 курс\Лекции\04_patterns\ExamplePatterns\ExamplePatterns\SimpleFactory\bin\Debug\net10.0\SimpleFactory.pdb
+D:\ЕКТС\2026-2027\__УМК\МДК.02.01\4 курс\Лекции\04_patterns\ExamplePatterns\ExamplePatterns\SimpleFactory\obj\Debug\net10.0\SimpleFactory.GeneratedMSBuildEditorConfig.editorconfig
+D:\ЕКТС\2026-2027\__УМК\МДК.02.01\4 курс\Лекции\04_patterns\ExamplePatterns\ExamplePatterns\SimpleFactory\obj\Debug\net10.0\SimpleFactory.AssemblyInfoInputs.cache
+D:\ЕКТС\2026-2027\__УМК\МДК.02.01\4 курс\Лекции\04_patterns\ExamplePatterns\ExamplePatterns\SimpleFactory\obj\Debug\net10.0\SimpleFactory.AssemblyInfo.cs
+D:\ЕКТС\2026-2027\__УМК\МДК.02.01\4 курс\Лекции\04_patterns\ExamplePatterns\ExamplePatterns\SimpleFactory\obj\Debug\net10.0\SimpleFactory.csproj.CoreCompileInputs.cache
+D:\ЕКТС\2026-2027\__УМК\МДК.02.01\4 курс\Лекции\04_patterns\ExamplePatterns\ExamplePatterns\SimpleFactory\obj\Debug\net10.0\SimpleFactory.dll
+D:\ЕКТС\2026-2027\__УМК\МДК.02.01\4 курс\Лекции\04_patterns\ExamplePatterns\ExamplePatterns\SimpleFactory\obj\Debug\net10.0\refint\SimpleFactory.dll
+D:\ЕКТС\2026-2027\__УМК\МДК.02.01\4 курс\Лекции\04_patterns\ExamplePatterns\ExamplePatterns\SimpleFactory\obj\Debug\net10.0\SimpleFactory.pdb
+D:\ЕКТС\2026-2027\__УМК\МДК.02.01\4 курс\Лекции\04_patterns\ExamplePatterns\ExamplePatterns\SimpleFactory\obj\Debug\net10.0\SimpleFactory.genruntimeconfig.cache
+D:\ЕКТС\2026-2027\__УМК\МДК.02.01\4 курс\Лекции\04_patterns\ExamplePatterns\ExamplePatterns\SimpleFactory\obj\Debug\net10.0\ref\SimpleFactory.dll

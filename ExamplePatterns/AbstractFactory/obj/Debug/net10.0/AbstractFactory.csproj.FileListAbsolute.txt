@@ -1,0 +1,14 @@
+D:\ЕКТС\2026-2027\__УМК\МДК.02.01\4 курс\Лекции\04_patterns\ExamplePatterns\ExamplePatterns\AbstractFactory\bin\Debug\net10.0\AbstractFactory.exe
+D:\ЕКТС\2026-2027\__УМК\МДК.02.01\4 курс\Лекции\04_patterns\ExamplePatterns\ExamplePatterns\AbstractFactory\bin\Debug\net10.0\AbstractFactory.deps.json
+D:\ЕКТС\2026-2027\__УМК\МДК.02.01\4 курс\Лекции\04_patterns\ExamplePatterns\ExamplePatterns\AbstractFactory\bin\Debug\net10.0\AbstractFactory.runtimeconfig.json
+D:\ЕКТС\2026-2027\__УМК\МДК.02.01\4 курс\Лекции\04_patterns\ExamplePatterns\ExamplePatterns\AbstractFactory\bin\Debug\net10.0\AbstractFactory.dll
+D:\ЕКТС\2026-2027\__УМК\МДК.02.01\4 курс\Лекции\04_patterns\ExamplePatterns\ExamplePatterns\AbstractFactory\bin\Debug\net10.0\AbstractFactory.pdb
+D:\ЕКТС\2026-2027\__УМК\МДК.02.01\4 курс\Лекции\04_patterns\ExamplePatterns\ExamplePatterns\AbstractFactory\obj\Debug\net10.0\AbstractFactory.GeneratedMSBuildEditorConfig.editorconfig
+D:\ЕКТС\2026-2027\__УМК\МДК.02.01\4 курс\Лекции\04_patterns\ExamplePatterns\ExamplePatterns\AbstractFactory\obj\Debug\net10.0\AbstractFactory.AssemblyInfoInputs.cache
+D:\ЕКТС\2026-2027\__УМК\МДК.02.01\4 курс\Лекции\04_patterns\ExamplePatterns\ExamplePatterns\AbstractFactory\obj\Debug\net10.0\AbstractFactory.AssemblyInfo.cs
+D:\ЕКТС\2026-2027\__УМК\МДК.02.01\4 курс\Лекции\04_patterns\ExamplePatterns\ExamplePatterns\AbstractFactory\obj\Debug\net10.0\AbstractFactory.csproj.CoreCompileInputs.cache
+D:\ЕКТС\2026-2027\__УМК\МДК.02.01\4 курс\Лекции\04_patterns\ExamplePatterns\ExamplePatterns\AbstractFactory\obj\Debug\net10.0\AbstractFactory.dll
+D:\ЕКТС\2026-2027\__УМК\МДК.02.01\4 курс\Лекции\04_patterns\ExamplePatterns\ExamplePatterns\AbstractFactory\obj\Debug\net10.0\refint\AbstractFactory.dll
+D:\ЕКТС\2026-2027\__УМК\МДК.02.01\4 курс\Лекции\04_patterns\ExamplePatterns\ExamplePatterns\AbstractFactory\obj\Debug\net10.0\AbstractFactory.pdb
+D:\ЕКТС\2026-2027\__УМК\МДК.02.01\4 курс\Лекции\04_patterns\ExamplePatterns\ExamplePatterns\AbstractFactory\obj\Debug\net10.0\AbstractFactory.genruntimeconfig.cache
+D:\ЕКТС\2026-2027\__УМК\МДК.02.01\4 курс\Лекции\04_patterns\ExamplePatterns\ExamplePatterns\AbstractFactory\obj\Debug\net10.0\ref\AbstractFactory.dll

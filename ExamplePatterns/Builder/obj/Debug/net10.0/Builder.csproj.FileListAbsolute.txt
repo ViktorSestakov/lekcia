@@ -1,0 +1,14 @@
+D:\ЕКТС\2026-2027\__УМК\МДК.02.01\4 курс\Лекции\04_patterns\ExamplePatterns\ExamplePatterns\Builder\bin\Debug\net10.0\Builder.exe
+D:\ЕКТС\2026-2027\__УМК\МДК.02.01\4 курс\Лекции\04_patterns\ExamplePatterns\ExamplePatterns\Builder\bin\Debug\net10.0\Builder.deps.json
+D:\ЕКТС\2026-2027\__УМК\МДК.02.01\4 курс\Лекции\04_patterns\ExamplePatterns\ExamplePatterns\Builder\bin\Debug\net10.0\Builder.runtimeconfig.json
+D:\ЕКТС\2026-2027\__УМК\МДК.02.01\4 курс\Лекции\04_patterns\ExamplePatterns\ExamplePatterns\Builder\bin\Debug\net10.0\Builder.dll
+D:\ЕКТС\2026-2027\__УМК\МДК.02.01\4 курс\Лекции\04_patterns\ExamplePatterns\ExamplePatterns\Builder\bin\Debug\net10.0\Builder.pdb
+D:\ЕКТС\2026-2027\__УМК\МДК.02.01\4 курс\Лекции\04_patterns\ExamplePatterns\ExamplePatterns\Builder\obj\Debug\net10.0\Builder.GeneratedMSBuildEditorConfig.editorconfig
+D:\ЕКТС\2026-2027\__УМК\МДК.02.01\4 курс\Лекции\04_patterns\ExamplePatterns\ExamplePatterns\Builder\obj\Debug\net10.0\Builder.AssemblyInfoInputs.cache
+D:\ЕКТС\2026-2027\__УМК\МДК.02.01\4 курс\Лекции\04_patterns\ExamplePatterns\ExamplePatterns\Builder\obj\Debug\net10.0\Builder.AssemblyInfo.cs
+D:\ЕКТС\2026-2027\__УМК\МДК.02.01\4 курс\Лекции\04_patterns\ExamplePatterns\ExamplePatterns\Builder\obj\Debug\net10.0\Builder.csproj.CoreCompileInputs.cache
+D:\ЕКТС\2026-2027\__УМК\МДК.02.01\4 курс\Лекции\04_patterns\ExamplePatterns\ExamplePatterns\Builder\obj\Debug\net10.0\Builder.dll
+D:\ЕКТС\2026-2027\__УМК\МДК.02.01\4 курс\Лекции\04_patterns\ExamplePatterns\ExamplePatterns\Builder\obj\Debug\net10.0\refint\Builder.dll
+D:\ЕКТС\2026-2027\__УМК\МДК.02.01\4 курс\Лекции\04_patterns\ExamplePatterns\ExamplePatterns\Builder\obj\Debug\net10.0\Builder.pdb
+D:\ЕКТС\2026-2027\__УМК\МДК.02.01\4 курс\Лекции\04_patterns\ExamplePatterns\ExamplePatterns\Builder\obj\Debug\net10.0\Builder.genruntimeconfig.cache
+D:\ЕКТС\2026-2027\__УМК\МДК.02.01\4 курс\Лекции\04_patterns\ExamplePatterns\ExamplePatterns\Builder\obj\Debug\net10.0\ref\Builder.dll

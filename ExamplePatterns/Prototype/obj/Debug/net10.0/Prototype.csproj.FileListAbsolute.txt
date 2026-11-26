@@ -1,0 +1,14 @@
+D:\ЕКТС\2026-2027\__УМК\МДК.02.01\4 курс\Лекции\04_patterns\ExamplePatterns\ExamplePatterns\Prototype\obj\Debug\net10.0\Prototype.GeneratedMSBuildEditorConfig.editorconfig
+D:\ЕКТС\2026-2027\__УМК\МДК.02.01\4 курс\Лекции\04_patterns\ExamplePatterns\ExamplePatterns\Prototype\obj\Debug\net10.0\Prototype.AssemblyInfoInputs.cache
+D:\ЕКТС\2026-2027\__УМК\МДК.02.01\4 курс\Лекции\04_patterns\ExamplePatterns\ExamplePatterns\Prototype\obj\Debug\net10.0\Prototype.AssemblyInfo.cs
+D:\ЕКТС\2026-2027\__УМК\МДК.02.01\4 курс\Лекции\04_patterns\ExamplePatterns\ExamplePatterns\Prototype\obj\Debug\net10.0\Prototype.csproj.CoreCompileInputs.cache
+D:\ЕКТС\2026-2027\__УМК\МДК.02.01\4 курс\Лекции\04_patterns\ExamplePatterns\ExamplePatterns\Prototype\bin\Debug\net10.0\Prototype.exe
+D:\ЕКТС\2026-2027\__УМК\МДК.02.01\4 курс\Лекции\04_patterns\ExamplePatterns\ExamplePatterns\Prototype\bin\Debug\net10.0\Prototype.deps.json
+D:\ЕКТС\2026-2027\__УМК\МДК.02.01\4 курс\Лекции\04_patterns\ExamplePatterns\ExamplePatterns\Prototype\bin\Debug\net10.0\Prototype.runtimeconfig.json
+D:\ЕКТС\2026-2027\__УМК\МДК.02.01\4 курс\Лекции\04_patterns\ExamplePatterns\ExamplePatterns\Prototype\bin\Debug\net10.0\Prototype.dll
+D:\ЕКТС\2026-2027\__УМК\МДК.02.01\4 курс\Лекции\04_patterns\ExamplePatterns\ExamplePatterns\Prototype\bin\Debug\net10.0\Prototype.pdb
+D:\ЕКТС\2026-2027\__УМК\МДК.02.01\4 курс\Лекции\04_patterns\ExamplePatterns\ExamplePatterns\Prototype\obj\Debug\net10.0\Prototype.dll
+D:\ЕКТС\2026-2027\__УМК\МДК.02.01\4 курс\Лекции\04_patterns\ExamplePatterns\ExamplePatterns\Prototype\obj\Debug\net10.0\refint\Prototype.dll
+D:\ЕКТС\2026-2027\__УМК\МДК.02.01\4 курс\Лекции\04_patterns\ExamplePatterns\ExamplePatterns\Prototype\obj\Debug\net10.0\Prototype.pdb
+D:\ЕКТС\2026-2027\__УМК\МДК.02.01\4 курс\Лекции\04_patterns\ExamplePatterns\ExamplePatterns\Prototype\obj\Debug\net10.0\Prototype.genruntimeconfig.cache
+D:\ЕКТС\2026-2027\__УМК\МДК.02.01\4 курс\Лекции\04_patterns\ExamplePatterns\ExamplePatterns\Prototype\obj\Debug\net10.0\ref\Prototype.dll

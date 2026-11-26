@@ -1,0 +1,14 @@
+D:\ЕКТС\2026-2027\__УМК\МДК.02.01\4 курс\Лекции\04_patterns\ExamplePatterns\ExamplePatterns\Singleton\bin\Debug\net10.0\Singleton.exe
+D:\ЕКТС\2026-2027\__УМК\МДК.02.01\4 курс\Лекции\04_patterns\ExamplePatterns\ExamplePatterns\Singleton\bin\Debug\net10.0\Singleton.deps.json
+D:\ЕКТС\2026-2027\__УМК\МДК.02.01\4 курс\Лекции\04_patterns\ExamplePatterns\ExamplePatterns\Singleton\bin\Debug\net10.0\Singleton.runtimeconfig.json
+D:\ЕКТС\2026-2027\__УМК\МДК.02.01\4 курс\Лекции\04_patterns\ExamplePatterns\ExamplePatterns\Singleton\bin\Debug\net10.0\Singleton.dll
+D:\ЕКТС\2026-2027\__УМК\МДК.02.01\4 курс\Лекции\04_patterns\ExamplePatterns\ExamplePatterns\Singleton\bin\Debug\net10.0\Singleton.pdb
+D:\ЕКТС\2026-2027\__УМК\МДК.02.01\4 курс\Лекции\04_patterns\ExamplePatterns\ExamplePatterns\Singleton\obj\Debug\net10.0\Singleton.GeneratedMSBuildEditorConfig.editorconfig
+D:\ЕКТС\2026-2027\__УМК\МДК.02.01\4 курс\Лекции\04_patterns\ExamplePatterns\ExamplePatterns\Singleton\obj\Debug\net10.0\Singleton.AssemblyInfoInputs.cache
+D:\ЕКТС\2026-2027\__УМК\МДК.02.01\4 курс\Лекции\04_patterns\ExamplePatterns\ExamplePatterns\Singleton\obj\Debug\net10.0\Singleton.AssemblyInfo.cs
+D:\ЕКТС\2026-2027\__УМК\МДК.02.01\4 курс\Лекции\04_patterns\ExamplePatterns\ExamplePatterns\Singleton\obj\Debug\net10.0\Singleton.csproj.CoreCompileInputs.cache
+D:\ЕКТС\2026-2027\__УМК\МДК.02.01\4 курс\Лекции\04_patterns\ExamplePatterns\ExamplePatterns\Singleton\obj\Debug\net10.0\Singleton.dll
+D:\ЕКТС\2026-2027\__УМК\МДК.02.01\4 курс\Лекции\04_patterns\ExamplePatterns\ExamplePatterns\Singleton\obj\Debug\net10.0\refint\Singleton.dll
+D:\ЕКТС\2026-2027\__УМК\МДК.02.01\4 курс\Лекции\04_patterns\ExamplePatterns\ExamplePatterns\Singleton\obj\Debug\net10.0\Singleton.pdb
+D:\ЕКТС\2026-2027\__УМК\МДК.02.01\4 курс\Лекции\04_patterns\ExamplePatterns\ExamplePatterns\Singleton\obj\Debug\net10.0\Singleton.genruntimeconfig.cache
+D:\ЕКТС\2026-2027\__УМК\МДК.02.01\4 курс\Лекции\04_patterns\ExamplePatterns\ExamplePatterns\Singleton\obj\Debug\net10.0\ref\Singleton.dll
